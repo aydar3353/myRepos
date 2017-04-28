@@ -1,41 +1,14 @@
-asd
+public class Aidar{
 
-sa
-f
-as
-f
-sf
+ 	private String name;
+	private String surname;
+	private String age;
 
+		public Aidar(){
 
-sdfadsfasdf
-
-d
-f
-f
-
-sfsa
-f
-df
-d
-g
-gfhfhgjrvyec
-
-c
-t
-hy
-h
-uyh
-u
-j
-ui
-j
-i
-kik
-assssssssssssssssssssssssssssssssssssssssssssffeasf
-as
-fegrt
-y
-
-
-ficj \asf
-rft
+		age = 18;
+		name  = "Aidar";
+		surname = "Aibekov";
+		
+}		
+}
